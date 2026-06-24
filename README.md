@@ -38,4 +38,3 @@ A Machine Learning based healthcare prediction system capable of predicting:
 ## Author     
   HUSNA ZIA
 
-Abdullah Zia
