@@ -35,6 +35,7 @@ A Machine Learning based healthcare prediction system capable of predicting:
 
 ✔ Interactive Gradio Interface
 
-## Author        
+## Author     
+  HUSNA ZIA
 
 Abdullah Zia
