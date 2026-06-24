@@ -1,65 +1,40 @@
 # 🧠 Multi-Disease Intelligent Prediction System
 
-An advanced Machine Learning project that predicts multiple diseases using synthetic medical datasets and ensemble learning techniques.
+A Machine Learning based healthcare prediction system capable of predicting:
 
-## Diseases Covered
-
-* Diabetes Prediction
-* Heart Disease Prediction
-* Parkinson's Disease Prediction
-* Liver Disease Prediction
-
-## Features
-
-* Synthetic dataset generation
-* Data preprocessing and scaling
-* Multiple machine learning models:
-
-  * Random Forest
-  * Gradient Boosting
-  * Support Vector Machine
-  * MLP Neural Network
-* Stacking Ensemble Learning
-* Confidence score calculation
-* Risk level assessment
-* Interactive Gradio web interface
+- Diabetes
+- Heart Disease
+- Parkinson's Disease
+- Liver Disease
 
 ## Technologies Used
 
-* Python
-* NumPy
-* Pandas
-* Scikit-Learn
-* Gradio
-* Joblib
+- Python
+- Scikit-Learn
+- Gradio
+- NumPy
+- Pandas
 
-## Project Workflow
+## ML Models
 
-1. Generate synthetic medical datasets
-2. Preprocess and normalize data
-3. Train machine learning models
-4. Build stacking ensemble
-5. Save trained models
-6. Launch Gradio prediction interface
+- Random Forest
+- Gradient Boosting
+- Support Vector Machine
+- Neural Network (MLP)
+- Stacking Classifier
 
-## Installation
+## Features
 
-```bash
-pip install -r requirements.txt
-```
+✔ Dynamic Disease Selection
 
-## Run Training
+✔ Automatic Feature Labels
 
-```bash
-python train.py
-```
+✔ Confidence Score
 
-## Launch Interface
+✔ Risk Level Detection
 
-```bash
-python app.py
-```
+✔ Interactive Gradio Interface
 
-## Author
+## Author        
 
 Abdullah Zia
